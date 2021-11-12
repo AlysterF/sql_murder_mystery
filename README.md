@@ -2,13 +2,14 @@
 
 created by [Joon Park](https://twitter.com/joonparkmusic) and [Cathy He](https://twitter.com/Cathy_MeiyingHe) while they were Knight Lab fellows
 
-
+<br>
 
 ## Summary
 
 There's been a Murder in SQL City! The SQL Murder Mystery is designed to be both a self-directed lesson to learn SQL concepts and commands and a fun game for experienced SQL users to solve an intriguing crime.                
 
 
+<br>
 
 ## Table names and schemas
 
@@ -46,12 +47,14 @@ The SQL Murder Mystery game has 9 tables, and one of them is used to check the c
 | CREATE TABLE income (        ssn integer PRIMARY KEY,        annual_income integer    ) |
 
 
+<br>
 
 ## 🧐 The murder mystery
 
 A crime has taken place and the detective needs your help. The detective gave you the crime scene report, but you somehow lost it. You vaguely remember that the crime was a **murder** that occurred sometime on **Jan.15, 2018** and that it took place in **SQL City**. Start by retrieving the corresponding crime scene report from the police department’s database.
 
 
+<br>
 
 ## 🔎 The investigation
 
@@ -60,6 +63,7 @@ A crime has taken place and the detective needs your help. The detective gave yo
 🕵️‍♂️ I lost the crime scene reports that the detective gave me... I need to solve this mystery, whatever it takes.
 
 
+<br>
 
 **Recovering the murder report description**
 
@@ -90,7 +94,7 @@ WHERE
 
 🕵️‍♂️ Interesting... 🤔 I should check the witnesses interviews to find out what they saw in the crime scene, but first, I need to find out who the witnesses are exactly.
 
-
+<br>
 
 **Who are the witnesses?**
 
@@ -142,6 +146,7 @@ WHERE
 Bingo! Morty Shapiro and Annabel Miller!
 
 
+<br>
 
 **The interviews**
 
@@ -157,7 +162,7 @@ WHERE
 	OR person_id = 16371;
 ````
 
-
+<br>
 
 ***Searching...***
 
@@ -174,7 +179,6 @@ WHERE
 🕵️‍♂️ Great, now I know a lot to find the murderer.
 
 
-
 ***Investigation Notes***
 
 - It's a man
@@ -187,7 +191,7 @@ WHERE
 
 I need to find someone that matches with all this descriptions and get him to a Police Department to an interview.
 
-
+<br>
 
 **Finding and interviewing the murderer**
 
@@ -222,7 +226,7 @@ WHERE
 🕵️‍♂️ It's Jeremy Bowers! I need him to confess.
 
 
-
+<br>
 
 ***In the interview room***
 
@@ -245,7 +249,7 @@ I was hired by a woman with a lot of money. I don't know her name but I know she
 🕵️‍♂️ See? Wasn't that hard, was it Jeremy?
 
 
-
+<br>
 
 **The mastermind**
 
@@ -295,7 +299,7 @@ GROUP BY
 	p.name;
 ````
 
-
+<br>
 
 ***The next morning...***
 
@@ -317,7 +321,7 @@ GROUP BY
 
 🕵️‍♂️ It's a pleasure to solve another mystery in SQL City.
 
-
+<br>
 
 ## Challenge website
 
