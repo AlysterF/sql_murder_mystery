@@ -223,6 +223,7 @@ WHERE
 
 
 
+
 ***In the interview room***
 
 🕵️‍♂️ Hello, Jeremy! We have two witnesses who saw you in the crime scene. You can't hide it anymore. Tell us the truth!
@@ -245,9 +246,11 @@ I was hired by a woman with a lot of money. I don't know her name but I know she
 
 
 
+
 **The mastermind**
 
 🕵️‍♂️ There's a mastermind behind this crime. Jeremy was just a pawn in their game.
+
 
 
 
@@ -308,7 +311,7 @@ GROUP BY
 
 ***The police stations send the cops immediately to Miranda's house***
 
-***I take in the situation from across the street, and there's Miranda walking out in handcuffs.***
+***I watch the situation from across the street, and there's Miranda walking out in handcuffs.***
 
 
 
